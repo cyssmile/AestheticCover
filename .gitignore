@@ -1,7 +1,6 @@
-.DS_Store
 *.DS_Store
-*.xcuserstate
-
+*.UserInterfaceState.xcuserstate
+AestheticCover/AestheticCover.xcodeproj/project.xcworkspace/xcuserdata/bytedance.xcuserdatad/UserInterfaceState.xcuserstate
+AestheticCover/AestheticCover.xcodeproj/xcuserdata/bytedance.xcuserdatad/xcdebugger/
 AestheticCover/AestheticCover.xcodeproj/xcuserdata/
-
 .vscode/

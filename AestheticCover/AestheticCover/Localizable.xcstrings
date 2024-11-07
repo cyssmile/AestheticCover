@@ -1,7 +1,68 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Best Rated Thumbnails" : {
 
+    },
+    "Captured at %@ seconds with a score of %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Captured at %1$@ seconds with a score of %2$@."
+          }
+        }
+      }
+    },
+    "Generate Video Thumbnails" : {
+
+    },
+    "generateImageDesc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a video to generate the best cover"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择一段视频生成最具美学意义的封面"
+          }
+        }
+      }
+    },
+    "Image" : {
+
+    },
+    "Processing..." : {
+
+    },
+    "Reset" : {
+
+    },
+    "selectButtonDesc" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Video File"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择视频"
+          }
+        }
+      }
+    },
+    "Try videos with more scene changes to see more results." : {
+
+    }
   },
   "version" : "1.0"
 }
